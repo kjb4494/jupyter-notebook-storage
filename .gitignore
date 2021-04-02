@@ -135,3 +135,4 @@ dmypy.json
 .keras/
 .local/
 .idea/
+.bash_history
