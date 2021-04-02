@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# jupyter notebook
+.conda/
+.empty/
+.jupyter/
+.keras/
+.local/
